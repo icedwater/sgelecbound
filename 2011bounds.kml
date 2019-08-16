@@ -35,6 +35,38 @@
         <styleUrl>#poly-000000-1200-77-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="poly-000000-3000-43-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>2b000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-000000-3000-43-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>4.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>2b000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-000000-3000-43">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-000000-3000-43-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-000000-3000-43-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="poly-000099-3000-115-normal">
       <LineStyle>
         <color>ff990000</color>
@@ -163,38 +195,6 @@
         <styleUrl>#poly-00AA00-3000-102-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="poly-333399-3000-115-normal">
-      <LineStyle>
-        <color>ff993333</color>
-        <width>3</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>73993333</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-333399-3000-115-highlight">
-      <LineStyle>
-        <color>ff993333</color>
-        <width>4.5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>73993333</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-333399-3000-115">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-333399-3000-115-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-333399-3000-115-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Style id="poly-3333FF-3000-115-normal">
       <LineStyle>
         <color>ffff3333</color>
@@ -225,38 +225,6 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#poly-3333FF-3000-115-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="poly-3333FF-3000-89-normal">
-      <LineStyle>
-        <color>ffff3333</color>
-        <width>3</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>59ff3333</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-3333FF-3000-89-highlight">
-      <LineStyle>
-        <color>ffff3333</color>
-        <width>4.5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>59ff3333</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-3333FF-3000-89">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-3333FF-3000-89-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-3333FF-3000-89-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="poly-33CC00-3000-115-normal">
@@ -323,36 +291,196 @@
         <styleUrl>#poly-33FF33-3000-115-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="poly-62AF44-3000-115-normal">
+    <Style id="poly-62AF44-1200-77-normal">
       <LineStyle>
         <color>ff44af62</color>
-        <width>3</width>
+        <width>1.2</width>
       </LineStyle>
       <PolyStyle>
-        <color>7344af62</color>
+        <color>4d44af62</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
     </Style>
-    <Style id="poly-62AF44-3000-115-highlight">
+    <Style id="poly-62AF44-1200-77-highlight">
       <LineStyle>
         <color>ff44af62</color>
-        <width>4.5</width>
+        <width>1.8</width>
       </LineStyle>
       <PolyStyle>
-        <color>7344af62</color>
+        <color>4d44af62</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
     </Style>
-    <StyleMap id="poly-62AF44-3000-115">
+    <StyleMap id="poly-62AF44-1200-77">
       <Pair>
         <key>normal</key>
-        <styleUrl>#poly-62AF44-3000-115-normal</styleUrl>
+        <styleUrl>#poly-62AF44-1200-77-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#poly-62AF44-3000-115-highlight</styleUrl>
+        <styleUrl>#poly-62AF44-1200-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-A61B4A-3000-115-normal">
+      <LineStyle>
+        <color>ff4a1ba6</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>734a1ba6</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-A61B4A-3000-115-highlight">
+      <LineStyle>
+        <color>ff4a1ba6</color>
+        <width>4.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>734a1ba6</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-A61B4A-3000-115">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-A61B4A-3000-115-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-A61B4A-3000-115-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-B7DBAB-3000-115-normal">
+      <LineStyle>
+        <color>ffabdbb7</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>73abdbb7</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-B7DBAB-3000-115-highlight">
+      <LineStyle>
+        <color>ffabdbb7</color>
+        <width>4.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>73abdbb7</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-B7DBAB-3000-115">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-B7DBAB-3000-115-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-B7DBAB-3000-115-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-D698AD-3000-115-normal">
+      <LineStyle>
+        <color>ffad98d6</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>73ad98d6</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-D698AD-3000-115-highlight">
+      <LineStyle>
+        <color>ffad98d6</color>
+        <width>4.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>73ad98d6</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-D698AD-3000-115">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-D698AD-3000-115-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-D698AD-3000-115-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-D698AD-3000-89-normal">
+      <LineStyle>
+        <color>ffad98d6</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>59ad98d6</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-D698AD-3000-89-highlight">
+      <LineStyle>
+        <color>ffad98d6</color>
+        <width>4.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>59ad98d6</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-D698AD-3000-89">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-D698AD-3000-89-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-D698AD-3000-89-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FAD199-3000-115-normal">
+      <LineStyle>
+        <color>ff99d1fa</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7399d1fa</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-FAD199-3000-115-highlight">
+      <LineStyle>
+        <color>ff99d1fa</color>
+        <width>4.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7399d1fa</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-FAD199-3000-115">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FAD199-3000-115-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FAD199-3000-115-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="poly-FF0000-3000-102-normal">
@@ -488,7 +616,7 @@
       <Placemark>
         <name>WE01</name>
         <description>West Coast Division, District 01</description>
-        <styleUrl>#poly-3333FF-3000-115</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -515,7 +643,7 @@
       <Placemark>
         <name>WE02</name>
         <description>West Coast Division, District 02</description>
-        <styleUrl>#poly-3333FF-3000-115</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -544,7 +672,7 @@
       <Placemark>
         <name>WE04</name>
         <description>West Coast Division, District 04</description>
-        <styleUrl>#poly-3333FF-3000-115</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -577,7 +705,7 @@
       <Placemark>
         <name>WE06</name>
         <description>West Coast Division - District 6</description>
-        <styleUrl>#poly-333399-3000-115</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -607,7 +735,7 @@
       <Placemark>
         <name>WE07</name>
         <description>West Coast Division - District 07</description>
-        <styleUrl>#poly-3333FF-3000-115</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -631,7 +759,7 @@
       <Placemark>
         <name>WE08</name>
         <description>West Coast Division - District 08</description>
-        <styleUrl>#poly-3333FF-3000-115</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -668,7 +796,7 @@
       <Placemark>
         <name>WE09</name>
         <description>West Coast Division - District 09</description>
-        <styleUrl>#poly-3333FF-3000-115</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -694,7 +822,7 @@
       <Placemark>
         <name>WE10</name>
         <description>West Coast Division - District 10</description>
-        <styleUrl>#poly-3333FF-3000-115</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -723,7 +851,7 @@
       <Placemark>
         <name>WE11</name>
         <description>West Coast Division - District 11</description>
-        <styleUrl>#poly-3333FF-3000-115</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -756,7 +884,7 @@
       <Placemark>
         <name>WE12</name>
         <description>West Coast Division - District 12</description>
-        <styleUrl>#poly-3333FF-3000-115</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -787,7 +915,7 @@
       <Placemark>
         <name>WE13</name>
         <description>West Coast Division - District 13</description>
-        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -872,7 +1000,7 @@
       <Placemark>
         <name>WE15</name>
         <description>West Coast Division - District 15</description>
-        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -898,7 +1026,7 @@
       <Placemark>
         <name>WE16</name>
         <description>West Coast Division - District 16</description>
-        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -923,7 +1051,7 @@
       <Placemark>
         <name>WE17</name>
         <description>West Coast Division - District 17</description>
-        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -944,7 +1072,7 @@
       <Placemark>
         <name>WE18</name>
         <description>West Coast Division - District 18</description>
-        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -1040,7 +1168,7 @@
       <Placemark>
         <name>WE20</name>
         <description>West Coast Division - District 20</description>
-        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -1072,7 +1200,7 @@
       <Placemark>
         <name>WE21</name>
         <description>West Coast Division - District 21</description>
-        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -1095,7 +1223,7 @@
       <Placemark>
         <name>WE22</name>
         <description>West Coast Division - District 22</description>
-        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -1120,7 +1248,7 @@
       <Placemark>
         <name>WE23</name>
         <description>West Coast Division - District 23</description>
-        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -1151,7 +1279,7 @@
       <Placemark>
         <name>WE24</name>
         <description>West Coast Division - District 24</description>
-        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -1176,7 +1304,7 @@
       <Placemark>
         <name>WE25</name>
         <description>West Coast Division - District 25</description>
-        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -1201,7 +1329,7 @@
       <Placemark>
         <name>WE26</name>
         <description><![CDATA[West Coast Division - District 26<br>(boundaries unclear because of Blk 60+)]]></description>
-        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -1228,7 +1356,7 @@
       <Placemark>
         <name>WE27</name>
         <description><![CDATA[West Coast Division - District 27<br>(boundaries unclear due to proposed Block)]]></description>
-        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -1263,7 +1391,7 @@
       <Placemark>
         <name>WE28</name>
         <description>West Coast Division - District 28</description>
-        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -1302,7 +1430,7 @@
       <Placemark>
         <name>WE30</name>
         <description>West Coast Division - District 30</description>
-        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -1492,7 +1620,7 @@
       <Placemark>
         <name>WE36</name>
         <description>West Coast Division - District 36</description>
-        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -1519,7 +1647,7 @@
       <Placemark>
         <name>WE37</name>
         <description>West Coast Division - District 37</description>
-        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -1551,7 +1679,7 @@
       <Placemark>
         <name>WE38</name>
         <description>West Coast Division - District 38</description>
-        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -1624,7 +1752,7 @@
       <Placemark>
         <name>WE41</name>
         <description>West Coast Division - District 41</description>
-        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -1651,7 +1779,7 @@
       <Placemark>
         <name>WE42</name>
         <description>West Coast Division - District 42</description>
-        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -1677,7 +1805,7 @@
       <Placemark>
         <name>WE43</name>
         <description>West Coast Division - District 43</description>
-        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -1702,7 +1830,7 @@
       <Placemark>
         <name>WE44</name>
         <description>West Coast Division - District 44</description>
-        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -1728,7 +1856,7 @@
       <Placemark>
         <name>WE45</name>
         <description>West Coast Division - District 45</description>
-        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -1760,7 +1888,7 @@
       <Placemark>
         <name>WE46</name>
         <description>West Coast Division - District 46</description>
-        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -1834,7 +1962,7 @@
       <Placemark>
         <name>WE50</name>
         <description>West Coast Division - District 50</description>
-        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <styleUrl>#poly-33CC00-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -3767,7 +3895,7 @@
       <Placemark>
         <name>West Coast</name>
         <description>West Coast Division</description>
-        <styleUrl>#poly-0000FF-3000-115</styleUrl>
+        <styleUrl>#poly-A61B4A-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -3911,7 +4039,7 @@
       <Placemark>
         <name>Yio Chu Kang</name>
         <description>Yio Chu Kang Division</description>
-        <styleUrl>#poly-FF0000-3000-115</styleUrl>
+        <styleUrl>#poly-000000-3000-43</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -3971,7 +4099,7 @@
       <Placemark>
         <name>YK01</name>
         <description>Yio Chu Kang Division - District 1</description>
-        <styleUrl>#poly-FF0000-3000-115</styleUrl>
+        <styleUrl>#poly-FAD199-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -3996,7 +4124,7 @@
       <Placemark>
         <name>YK02</name>
         <description>Yio Chu Kang Division - District 2</description>
-        <styleUrl>#poly-FF0000-3000-115</styleUrl>
+        <styleUrl>#poly-FAD199-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -4022,7 +4150,7 @@
       <Placemark>
         <name>YK03</name>
         <description>Yio Chu Kang Division - District 3</description>
-        <styleUrl>#poly-FF0000-3000-115</styleUrl>
+        <styleUrl>#poly-FAD199-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -4049,7 +4177,7 @@
       <Placemark>
         <name>YK04</name>
         <description>Yio Chu Kang Division - District 4</description>
-        <styleUrl>#poly-FF0000-3000-115</styleUrl>
+        <styleUrl>#poly-FAD199-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -4077,7 +4205,7 @@
       <Placemark>
         <name>YK05</name>
         <description>Yio Chu Kang Division - District 5</description>
-        <styleUrl>#poly-FF0000-3000-115</styleUrl>
+        <styleUrl>#poly-FAD199-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -4124,7 +4252,7 @@
       <Placemark>
         <name>YK06</name>
         <description>Yio Chu Kang Division - District 6</description>
-        <styleUrl>#poly-FF0000-3000-115</styleUrl>
+        <styleUrl>#poly-FAD199-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -4154,7 +4282,7 @@
       <Placemark>
         <name>YK07</name>
         <description>Yio Chu Kang Division - District 7</description>
-        <styleUrl>#poly-FF0000-3000-115</styleUrl>
+        <styleUrl>#poly-FAD199-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -4175,7 +4303,7 @@
       <Placemark>
         <name>YK08</name>
         <description>Yio Chu Kang Division - District 8</description>
-        <styleUrl>#poly-FF0000-3000-115</styleUrl>
+        <styleUrl>#poly-FAD199-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -4199,7 +4327,7 @@
       <Placemark>
         <name>YK09</name>
         <description>Yio Chu Kang Division - District 9</description>
-        <styleUrl>#poly-FF0000-3000-115</styleUrl>
+        <styleUrl>#poly-FAD199-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -23579,7 +23707,7 @@
       <Placemark>
         <name>WE01</name>
         <description>West Coast Division, District 01</description>
-        <styleUrl>#poly-62AF44-3000-115</styleUrl>
+        <styleUrl>#poly-D698AD-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -23606,7 +23734,7 @@
       <Placemark>
         <name>WE02</name>
         <description>West Coast Division, District 02</description>
-        <styleUrl>#poly-3333FF-3000-115</styleUrl>
+        <styleUrl>#poly-D698AD-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -23635,7 +23763,7 @@
       <Placemark>
         <name>WE03</name>
         <description>West Coast Division, District 03</description>
-        <styleUrl>#poly-3333FF-3000-115</styleUrl>
+        <styleUrl>#poly-D698AD-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -23664,7 +23792,7 @@
       <Placemark>
         <name>WE04</name>
         <description>West Coast Division, District 04</description>
-        <styleUrl>#poly-3333FF-3000-115</styleUrl>
+        <styleUrl>#poly-D698AD-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -23697,7 +23825,7 @@
       <Placemark>
         <name>WE05</name>
         <description><![CDATA[West Coast Division, District 05<br>(boundaries uncertain - production of Ave 4?)]]></description>
-        <styleUrl>#poly-3333FF-3000-89</styleUrl>
+        <styleUrl>#poly-D698AD-3000-89</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -23730,7 +23858,7 @@
       <Placemark>
         <name>WE06</name>
         <description>West Coast Division - District 6</description>
-        <styleUrl>#poly-333399-3000-115</styleUrl>
+        <styleUrl>#poly-D698AD-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -23760,7 +23888,7 @@
       <Placemark>
         <name>WE07</name>
         <description>West Coast Division - District 07</description>
-        <styleUrl>#poly-3333FF-3000-115</styleUrl>
+        <styleUrl>#poly-D698AD-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -23784,7 +23912,7 @@
       <Placemark>
         <name>WE08</name>
         <description>West Coast Division - District 08</description>
-        <styleUrl>#poly-3333FF-3000-115</styleUrl>
+        <styleUrl>#poly-D698AD-3000-115</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
